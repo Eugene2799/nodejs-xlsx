@@ -1,0 +1,21 @@
+{
+  "name": "xlsxtohtml",
+  "version": "1.0.0",
+  "description": "a tool from xlsx to html.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xlsx",
+    "html"
+  ],
+  "author": "zhangzhiyue",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2",
+    "xlsx": "^0.16.2"
+  }
+}
